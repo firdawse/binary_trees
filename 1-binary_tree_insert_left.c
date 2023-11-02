@@ -3,7 +3,7 @@
  * binary_tree_insert_left - add a node in the left of the parent
  * @parent: parent of the specified  node
  * @value: value of the node
- * Return: new node or  NULL if it fails 
+ * Return: new node or NULL if it fail
  */
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 {
